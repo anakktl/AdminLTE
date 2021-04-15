@@ -1,0 +1,25 @@
+{
+  "name": "Alpin ofc",
+  "description": "alpin ofc apikey. api ini khusus saya",
+  "homepage": "https://adminlte.io/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Colorlib"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/ColorlibHQ/AdminLTE/issues"
+  }
+}
